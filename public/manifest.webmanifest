@@ -1,0 +1,9 @@
+{
+  "name": "AI Market Mentor",
+  "short_name": "Market Mentor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060a12",
+  "theme_color": "#060a12",
+  "icons": []
+}
